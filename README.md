@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **prakharkhatri123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a2Xt4AOZfLoQgCHXE3hGpt5QSeoXYJAM/view?usp=sharing](https://drive.google.com/file/d/1a2Xt4AOZfLoQgCHXE3hGpt5QSeoXYJAM/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1a2Xt4AOZfLoQgCHXE3hGpt5QSeoXYJAM/view?usp=sharing)
 
-- ⚡ Fun fact **Debugging is like being the detective in a crime movie**
+- ⚡ Fun fact Debugging is like being the detective in a crime movie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
