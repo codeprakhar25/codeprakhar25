@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
 <h3 align="center">Software and Android Developer.</h3>
 
+<br>
+<p  align = center>
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="1000">
+</p>
+<br><br>
+
 - 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **prakharkhatri123@gmail.com**
