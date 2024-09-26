@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1a2Xt4AOZfLoQgCHXE3hGpt5QSeoXYJAM/view?usp=sharing)
 
-- ⚡ Fun fact Debugging is like being the detective in a crime movie
+- ⚡ Fun fact: Debugging is like being the detective in a crime movie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +29,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeprakhar25&" alt="codeprakhar25" /></p>
 
+  <br/>
+<details>
+  <summary style="font-size: 1.5em; cursor: pointer;">
+    <strong>Github trophies</strong>
+  </summary>
+  <div style="text-align: center; margin: 20px; margin-top: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=ommanimesh2" alt="ommanimesh2" style="max-width: 100%;"/>
+  </div>
+</details>
