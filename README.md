@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prakharkhatri123@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1a2Xt4AOZfLoQgCHXE3hGpt5QSeoXYJAM/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XFd6pf6c86192-xB5wxG2M6TPrrhs5t5/view?usp=sharing)
 
 - ⚡ Fun fact: Debugging is like being the detective in a crime movie
 
