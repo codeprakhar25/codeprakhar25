@@ -7,7 +7,7 @@
 </p>
 <br><br>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **Springboot**
 
 - 📫 How to reach me **prakharkhatri123@gmail.com**
 
