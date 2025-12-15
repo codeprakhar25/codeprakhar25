@@ -111,6 +111,6 @@
     <strong>Github trophies</strong>
   </summary>
   <div style="text-align: center; margin: 20px; margin-top: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=ommanimesh2" alt="ommanimesh2" style="max-width: 100%;"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=codeprakhar25" alt="codeprakhar25" style="max-width: 100%;"/>
   </div>
 </details>
