@@ -10,20 +10,17 @@
 
 ### Research
 
-- **The Occupancy Curve: Why Note-Placement Accuracy Depends on How Full the Folder Already Is**
-
+- **The Occupancy Curve: Why Note-Placement Accuracy Depends on How Full the Folder Already Is**  
   Accepted at **PALM Workshop @ NeurIPS 2026** (poster)
   [Code](https://github.com/codeprakhar25/context-management)
 
-- **Do Context Files Help Coding Agents? A Two-Agent Ablation Study on Real Repositories**
-
+- **Do Context Files Help Coding Agents? A Two-Agent Ablation Study on Real Repositories**  
   Accepted at **REALM Workshop @ EMNLP 2026**
   [arXiv](https://arxiv.org/abs/2607.27250) · [Code](https://github.com/codeprakhar25/context-files-coding-agents)
 
-- **Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs**
-
+- **Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs**  
   Preprint
-  [arXiv](https://arxiv.org/abs/2609.03820) · [Code](https://github.com/codeprakhar25/omp-keyframe-sampling)
+  [arXiv](https://arxiv.org/abs/2609.03820) · [Code](https://github.com/codeprakhar25/omp-keyframe-sampling)  
   
 
 <details>
