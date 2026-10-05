@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: Debugging is like being the detective in a crime movie
 
-## Research
+### Research
 
 - **The Occupancy Curve: Why Note-Placement Accuracy Depends on How Full the Folder Already Is**
 
